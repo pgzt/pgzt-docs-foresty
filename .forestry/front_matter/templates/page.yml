@@ -26,5 +26,7 @@ fields:
 pages:
 - docs/configuration/configuration.md
 - docs/configuration/configuration.md
+- docs/configuration/configuration.md
+- docs/navigation-structure.md
 - docs/navigation-structure.md
 - docs/navigation-structure.md
